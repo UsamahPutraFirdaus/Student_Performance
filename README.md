@@ -47,7 +47,7 @@ Sumber Data : [Student Performance](https://github.com/dicodingacademy/dicoding_
    ```
 
 ## Business Dashboard
-[Jaya Jaya Institute Dashboard] dibuat secara optimal untuk menyediakan insight bagi para pengajar dan pihak internal institusi mengenai tingkat siswa dropout yang mencapai lebih dari 30%.
+[Jaya Jaya Institute Dashboard](https://lookerstudio.google.com/u/0/reporting/986b274f-16a7-4285-a545-bc4e817d6244/page/PupMF) dibuat secara optimal untuk menyediakan insight bagi para pengajar dan pihak internal institusi mengenai tingkat siswa dropout yang mencapai lebih dari 30%.
 
 ![img alt](https://github.com/UsamahPutraFirdaus/Student_Performance/blob/main/Usamah%20Putra%20Firdaus_Dashboard.png?raw=true)
 
